@@ -64,7 +64,7 @@
  */
 public class P764_MinCostClimbingStairs {
     public static void main(String[] args) {
-        
+
     }
     static class Solution {
         int[] dp;
