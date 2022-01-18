@@ -25,7 +25,7 @@ public class P256_PaintHouse {
  * In addition this problem also had overlapping subproblems. This just means that the lower subproblems were often shared (remember how the tree had lots of branches that looked the same?)
  *
  * Problems that have optimal substructure can be solved with greedy algorithms. If they also have overlapping subproblems, then they can be solved with dynamic programming algorithms.
- * 
+ *
  * class Solution {
  *     public int minCost(int[][] costs) {
  *
